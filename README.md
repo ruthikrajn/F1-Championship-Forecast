@@ -124,6 +124,3 @@ Used cross-validation and hyperparameter tuning to select the best model.
 - Model team strategies and pit stop optimization  
 - Predict outcomes of upcoming races using real-time inputs
 
----
-
-> **Note:** This project was completed as part of the final course requirement at Northeastern University, Spring 2023.
